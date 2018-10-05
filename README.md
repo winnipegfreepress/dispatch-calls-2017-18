@@ -7,6 +7,6 @@ This data was used for a series based on a Free Press analysis of the 275,670 in
 ### Part 2: 
 [There were just nine days in 2017 without reports of firearms sightings in Winnipeg](https://www.winnipegfreepress.com/local/911-calls-guns-494845431.html)
 ### Part 3: 
-[When it comes to break and enters, downtown neighbourhoods hardest hit](https://www.winnipegfreepress.com/breakingnews/911-calls-mental-health-495183921.html)
+[When it comes to break and enters, downtown neighbourhoods hardest hit](https://www.winnipegfreepress.com/local/911-calls-break-and-enters-495084551.html)
 ### Part 4: 
 [Mental-health calls strain police resources; experts blame inadequate treatment options](https://www.winnipegfreepress.com/breakingnews/911-calls-mental-health-495183921.html)
